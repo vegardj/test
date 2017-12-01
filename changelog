@@ -1,0 +1,43 @@
+// recording all changes to the Certified Company Register
+
+#3—begin entry
+time: 2017-12-01T20:35:16+00:00 // specified in ISO 8601
+modified by: CBA
+action: example.co.uk found in violation of Better Ads Standard. Requested Independent Dispute resolution. 
+domains affected:
+    example.co.uk
+#3—end entry
+
+
+#2—begin entry
+time: 2017-12-01T18:35:16+00:00 // specified in ISO 8601
+modified by: CBA
+action: added the following domains to the Certified Company Register
+    anotherdomain.com
+    anotherdomain.cc
+    moreanotherdomain.com
+
+domains affected:
+    anotherdomain.com
+    anotherdomain.cc
+    moreanotherdomain.com
+#2—end entry
+
+
+#1—begin entry
+time: 2017-12-01T19:35:16+00:00 // specified in ISO 8601
+modified by: CBA
+action: added the following domains to the Certified Company Register
+    example.com
+    example.co.uk
+    example.co.in
+    example.pn
+    example.cc
+
+domains affected:
+    example.com
+    example.co.uk
+    example.co.in
+    example.pn
+    example.cc
+#1—end entry

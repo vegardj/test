@@ -1,15 +1,28 @@
+// This Source Code Form is subject to the terms of the Organization
+// License, v. 2.0. If a copy of the MPL was not distributed with this
+// file, you can obtain one at https://example.com
+
+// note that domains with revoked certifications are prepended with 
+// an @ symbol, and after 6 months of being revoked will be moved
+// to the revoked domains section at the end of the file
+
+
+// ===BEGIN example, inc DOMAINS===
+// see also: "Better Ads Standards policy" at http://example.com/path
+
 // example, inc domains
 example.com
-example.co.uk
+@example.co.uk
 example.co.in
 example.pn
 example.cc
 
-// another ltd domain
+// ===BEGIN another ltd DOMAINS===
 anotherdomain.com
 anotherdomain.cc
 moreanotherdomain.com
 
 
-//Domains with revoked certification
-anotherdomain3.com // removed by userID123 on 2017/12/22
+
+// ===BEGIN list of revoked DOMAINS===
+@anotherdomain3.com // removed by userID123 on 2017/12/22

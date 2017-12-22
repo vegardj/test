@@ -9,3 +9,7 @@ example.cc
 anotherdomain.com
 anotherdomain.cc
 moreanotherdomain.com
+
+
+//Domains with revoked certification
+anotherdomain3.com // removed on 2017/12/22

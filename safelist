@@ -12,7 +12,7 @@
 
 // example, inc domains
 example.com
-@example.co.uk
+@example.co.uk // {1513814400;userID124} revoked by dispute resolution mechanism
 example.co.in
 example.pn
 example.cc
@@ -25,4 +25,4 @@ moreanotherdomain.com
 
 
 // ===BEGIN list of revoked DOMAINS===
-@anotherdomain3.com // removed by userID123 on 2017/12/22
+@anotherdomain3.com // {1513949448;userID123} revoked by dispute resolution mechanism
